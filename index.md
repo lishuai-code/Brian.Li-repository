@@ -35,3 +35,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### something maybe userful
+
+Bookmarks：
+Java设置VM虚拟机属性------https://blog.csdn.net/u013289746/article/details/78086351
+Linux公社(很多关于Linux的信息)------http://www.linuxidc.com/
+Nuget仓库(.net开发的插件包)------https://www.nuget.org/
+png图片素材网------https://588ku.com/sucai/0-pxnum-0-0-0-0-1/?h=bd&sem=1&kw=bd0001341&bd_vid=10763719487259528100
